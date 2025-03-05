@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# praktikum2
-=======
 # praktikum3
->>>>>>> d877224 (first)
 
 A new Flutter project.
 
